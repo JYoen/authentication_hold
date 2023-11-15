@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Screen</string>
+    <string name="draw">Circle</string>
+    <string name="tips">请以放松姿势持握设备，保持三支手指在屏幕上，按音量上键开始采集，自然松开所有手指采集完成，前5次为注册阶段，后20次为测试阶段。</string>
+    <string name="tip_test">请按照给出的指尖位置提示还原您的握持姿势，测试过程持续20次</string>
+</resources>
